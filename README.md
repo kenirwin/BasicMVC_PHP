@@ -1,0 +1,2 @@
+This '''Basic MVC Scaffolding''' was written by Callum Hopkins and presented
+in his blog post [The MVC Pattern and PHP, Part 1](http://www.sitepoint.com/the-mvc-pattern-and-php-1/) on the SitePoint blog. It is used here without permission with very minor modifications.
